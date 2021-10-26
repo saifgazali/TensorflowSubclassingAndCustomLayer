@@ -7,3 +7,6 @@ We initialize a class CNNBlock and create 2 methods in it.
 Reconstructed Resnet like structure.
 
 Created Dense Layer from Scratch.
+
+
+Trained all the created models on MNIST dataset.
