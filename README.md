@@ -10,3 +10,5 @@ Created Dense Layer from Scratch.
 
 
 Trained all the created models on MNIST dataset.
+
+Custom Model.fit for MNIST dataset
